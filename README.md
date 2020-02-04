@@ -4,4 +4,4 @@ Matlab codes used to extract network adjacency matrix of mitochondria-mitochondr
 To extract mitochondria-mitochondria interaction adjacency matrix, one need to first download all the *.m files from this repository 
 to one destination folder and run 'MainSorted_PAforFeng_20181127Publication.m' in Matlab.
 
-Of course, one need to modify the folder path of your images to be analyzed using Matlab scripts.
+Of note, one need to modify the folder paths of your images to be analyzed.
